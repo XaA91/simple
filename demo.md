@@ -1,5 +1,5 @@
 simple text for github
 
-next simple text for github!My changes in local!
+It was added in github!!!
 
 final third line
